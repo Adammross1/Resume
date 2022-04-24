@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(248, 241, 231);
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(20, 12, 2, 0.733);;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+.head {
+  text-align: center;
+  font:bold
+}
+
+.foot {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: rgba(20, 12, 2, 0.733);
+    color: white;
+    text-align: center;
+}
+
+.tableauPlaceholder {
+  width: 40%;
+  margin: auto;
+}
+
+.gtt {
+  padding-bottom: 40px;
+}
+
+.centertext {
+  text-align: center;
+}

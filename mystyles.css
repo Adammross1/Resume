@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(248, 241, 231);
+}
+
+.aboutBgd{
+    background-color: rgb(240, 242, 250);
+}
+
+.offset {
+    text-align: right;
+    margin-right: -100px;
+
+.myres {
+    font-size: 10px;
+}
+
+}
+.text {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.indent {
+    text-indent: 50px;
+}
+.linkcolor {
+    color: white;
+}
+
+.headinga {
+    margin-left: 297px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.centertext {
+    text-align: center;
+}
+
+.centercon {
+    align-content: center;
+}
+
+.centerlist {
+    margin:auto
+}
+
+.ggt {
+    padding-bottom: 20px;
+}
+
+.pic1 {
+    padding-top: 100px;
+    margin-left: 10%;
+}
+
+.pic2 {
+    margin-right: 10%;
+}
+
+.vid {
+    padding-top: 100px;
+    margin: auto;
+}
+
+.vid2 {
+    width: 40%;
+    margin: auto;
+}
+
+.bgfull {
+        /* The image used */
+        background-image: url("img_girl.jpg");
+      
+        /* Full height */
+        height: 100%; 
+      
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
